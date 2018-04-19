@@ -1,0 +1,68 @@
+# MCPi language file
+# Addon Name: Digi-Online
+# Addon id: video.digionline
+# Addon Provider: AMSD
+msgid ""
+msgstr ""
+"Project-Id-Version: Digi-Online\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "Addon Summary"
+msgid "Plugin for Digi-Online"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Digi-Online is a media content provider."
+msgstr ""
+
+msgctxt "#30000"
+msgid "General"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Enable Digi-Online Account"
+msgstr ""
+
+msgctxt "#30002"
+msgid "    Username"
+msgstr ""
+
+msgctxt "#30003"
+msgid "    Password"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Preferred Quality"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Show OSD EPG Info Popup"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Now"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Next"
+msgstr ""
+
+msgctxt "#30050"
+msgid "Authentication failed"
+msgstr ""
+
+msgctxt "#30051"
+msgid "Authentication error"
+msgstr ""
+
+msgctxt "#30052"
+msgid "Digi-Online account is not configured or activated"
+msgstr ""
+
+msgctxt "#30053"
+msgid "Error reading TV channel details"
+msgstr ""

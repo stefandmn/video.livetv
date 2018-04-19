@@ -1,0 +1,13 @@
+v1.0
+- Included the following channels in this distribution: Digi24, B1 TV,
+  Realitatea TV, Romania TV, France 24, Travel Channel, Paprika TV, Digi Life,
+  Digi World, Viasat Explorer, National Geographic, History Channel, Viasat History,
+  National Geographic Wild, BBC Earth, Digi Animal World, Viasat Nature, TV1000, UTV,
+  Music Channel, Kiss TV, HitMusic Channel, Disney Channel, Megamax, Nickelodeon, Minimax,
+  Disney Junior, Davinci Learning, DigiSport 1, DigiSport 2, DigiSport 3, DigiSport 4,
+  EuroSport 1, EuroSport 2, TVR 1, TVR 2, Digi24 Oradea, Digi24 Brasov, Digi24 Cluj,
+  Digi24 Timisoara, Digi24 Iasi, Digi24 Galati, Digi24 Craiova, Digi24 Constanta
+- Remove all old dependencies and share functionalities from service.clue
+- Rename it in video.digionline (according to Clue naming convention)
+- Takeover the code and idea from plugin.video.digi-online v0.2.6.a for
+  improvements and to  make it fit for Clue platform.

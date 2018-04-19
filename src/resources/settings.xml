@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<settings>
+	<category label="30000">
+		<setting label="30001" id="digionline.login.enabled" type="bool" default="false"/>
+		<setting label="30002" id="digionline.login.username" type="text" visible="eq(-1,true)" default="testuser@rdslink.ro"/>
+		<setting label="30003" id="digionline.login.password" type="text" visible="eq(-2,true)" default="password" option="hidden"/>
+		<setting type="sep"/>
+		<setting label="30004" id="digionline.playback.quality" type="labelenum" lvalues="hq|mq|lq"/>
+		<setting label="30005" id="digionline.playback.epginfo" type="bool" default="true"/>
+	</category>
+</settings>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<categories>
+	<category id="news" label="News" icon="FolderNews.png">
+		<channel-v1 id="digi24" label="Digi24" auth="false" url="http://www.digi-online.ro/tv/digi24/" icon="Digi24.png"/>
+		<channel-v1 id="tvr1" label="TVR 1" auth="true" url="http://www.digi-online.ro/tv/tvr+1/" icon="TVR1.png"/>
+		<channel-v1 id="tvr2" label="TVR 2" auth="true" url="http://www.digi-online.ro/tv/tvr+2/" icon="TVR2.png"/>
+		<channel-v1 id="b1tv" label="B1 TV" auth="true" url="http://www.digi-online.ro/tv/b1+tv/" icon="B1TV.png"/>
+		<channel-v1 id="realitateatv" label="Realitatea TV" auth="true" url="http://www.digi-online.ro/tv/realitatea+tv/" icon="RealitateaTV.png"/>
+		<channel-v1 id="romaniatv" label="Romania TV" auth="true" url="http://www.digi-online.ro/tv/romania+tv/" icon="RomaniaTV.png"/>
+		<channel-v1 id="france24" label="France 24" auth="true" url="http://www.digi-online.ro/tv/france+24/" icon="France24.png"/>
+		<channel-v1 id="digi24brasov" label="Digi24 Brasov" auth="false" url="http://www.digi-online.ro/tv/digi24+brasov/" icon="Digi24.png"/>
+		<channel-v1 id="digi24cluj" label="Digi24 Cluj" auth="false" url="http://www.digi-online.ro/tv/digi24+cluj/" icon="Digi24.png"/>
+		<channel-v1 id="digi24constanta" label="Digi24 Constanta" auth="false" url="http://www.digi-online.ro/tv/digi24+constanta/" icon="Digi24.png"/>
+		<channel-v1 id="digi24craiova" label="Digi24 Craiova" auth="false" url="http://www.digi-online.ro/tv/digi24+craiova/" icon="Digi24.png"/>
+		<channel-v1 id="digi24galati" label="Digi24 Galati" auth="false" url="http://www.digi-online.ro/tv/digi24+galati/" icon="Digi24.png"/>
+		<channel-v1 id="digi24iasi" label="Digi24 Iasi" auth="false" url="http://www.digi-online.ro/tv/digi24+Iasi/" icon="Digi24.png"/>
+		<channel-v1 id="digi24oradea" label="Digi24 Oradea" auth="false" url="http://www.digi-online.ro/tv/digi24+oradea/" icon="Digi24.png"/>
+		<channel-v1 id="digi24timisoara" label="Digi24 Timisoara" auth="false" url="http://www.digi-online.ro/tv/digi24+timisoara/" icon="Digi24.png"/>
+	</category>
+	<category id="sports" label="Sports" icon="FolderSports.png">
+		<channel-v1 id="digisport1" label="Digisport 1" auth="true" url="http://www.digi-online.ro/tv/digisport+1/" icon="DigiSport1.png"/>
+		<channel-v1 id="digisport2" label="Digisport 2" auth="true" url="http://www.digi-online.ro/tv/digisport+2/" icon="DigiSport2.png"/>
+		<channel-v1 id="digisport3" label="Digisport 3" auth="true" url="http://www.digi-online.ro/tv/digisport+3/" icon="DigiSport3.png"/>
+		<channel-v1 id="digisport4" label="Digisport 4" auth="true" url="http://www.digi-online.ro/tv/digisport+4/" icon="DigiSport4.png"/>
+		<channel-v1 id="eurosport" label="Eurosport 1" auth="true" url="http://www.digi-online.ro/tv/eurosport/" icon="EuroSport.png"/>
+		<channel-v1 id="eurosport2" label="Eurosport 2" auth="true" url="http://www.digi-online.ro/tv/eurosport+2/" icon="EuroSport2.png"/>
+	</category>
+	<category id="movies" label="Movies" icon="FolderMovies.png">
+		<channel-v2 id="digifilm" label="Digi Film" auth="true" secure="true" url="http://www.digi-online.ro/tv/digi+film/" icon="DigiFilm.png"/>
+		<channel-v1 id="tv1000" label="TV1000" auth="true" secure="true" url="http://www.digi-online.ro/tv/tv+1000/" icon="TV1000.png"/>
+		<channel-v1 id="axn" label="AXN" auth="true" secure="true" url="http://www.digi-online.ro/tv/axn/" icon="AXN.png"/>
+		<channel-v1 id="axnspin" label="AXN Spin" auth="true" secure="true" url="http://www.digi-online.ro/tv/axn+spin/" icon="AXN_Spin.png"/>
+		<channel-v1 id="axnwhite" label="AXN White" auth="true" secure="true" url="http://www.digi-online.ro/tv/axn+white/" icon="AXN_White.png"/>
+		<channel-v1 id="axnblack" label="AXN Black" auth="true" secure="true" url="http://www.digi-online.ro/tv/axn+black/" icon="AXN_Black.png"/>
+		<channel-v1 id="filmcafe" label="Film Cafe" auth="true" secure="true" url="http://www.digi-online.ro/tv/film+cafe/" icon="FilmCafe.png"/>
+		<channel-v1 id="tnt" label="TNT" auth="true" secure="true" url="http://www.digi-online.ro/tv/tnt/" icon="TNT.png"/>
+	</category>
+	<category id="music" label="Music" icon="FolderMusic.png">
+		<channel-v1 id="utv" label="U TV" auth="false" url="http://www.digi-online.ro/tv/utv/" icon="UTV.png"/>
+		<channel-v1 id="musicchannel" label="Music Channel" auth="false" url="http://www.digi-online.ro/tv/music+channel/" icon="MusicChannel.png"/>
+		<channel-v1 id="hitmusicchannel" label="HitMusic Channel" auth="false" url="http://www.digi-online.ro/tv/hit+music+channel/" icon="HitMusicChannel.png"/>
+		<channel-v1 id="kisstv" label="Kiss TV" auth="false" url="http://www.digi-online.ro/tv/kiss+tv/" icon="KissTV.png"/>
+	</category>
+	<category id="themes" label="Themes" icon="FolderThemes.png">
+		<channel-v3 id="discoverychannel" label="Discovery Channel" auth="true" url="http://${CHURL}/digiedge2/discoverye${CHQTY}/index.m3u8?is=71&amp;src=app&amp;t=00000000000000000000000000000000" icon="DiscoveryChannel.png" />
+		<channel-v1 id="digiworld" label="Digi World" auth="true" url="http://www.digi-online.ro/tv/digi+world/" icon="DigiWorld.png" />
+		<channel-v1 id="digianimalworld" label="Digi Animal World" auth="true" url="http://www.digi-online.ro/tv/digi+animal+world/" icon="DigiAnimalWorld.png"/>
+		<channel-v1 id="nationalgeographic" label="National Geographic" auth="true" url="http://www.digi-online.ro/tv/national+geographic/" icon="NatGeographic.png"/>
+		<channel-v1 id="nationalgeographicwild" label="National Geographic Wild" auth="true" url="http://www.digi-online.ro/tv/national+geographic+wild/" icon="NatGeoWild.png"/>
+		<channel-v1 id="viasatexplorer" label="Viasat Explorer" auth="true" url="http://www.digi-online.ro/tv/viasat+explorer/" icon="ViasatExplorer.png"/>
+		<channel-v1 id="viasathistory" label="Viasat History" auth="true" url="http://www.digi-online.ro/tv/viasat+history" icon="ViasatHistory.png"/>
+		<channel-v1 id="viasatnature" label="Viasat Nature" auth="true" url="http://www.digi-online.ro/tv/viasat+nature/" icon="ViasatNature.png"/>
+		<channel-v1 id="historychannel" label="History Channel" auth="true" url="http://www.digi-online.ro/tv/history+channel/" icon="HistoryChannel.png"/>
+		<channel-v1 id="bbcearth" label="BBC Earth" auth="true" url="http://www.digi-online.ro/tv/bbc+earth/" icon="BBC_Earth.png"/>
+		<channel-v1 id="davincilearning" label="Davinci Learning" auth="true" url="http://www.digi-online.ro/tv/davinci+learning/" icon="DaVinciLearning.png"/>
+	</category>
+	<category id="cartoons" label="Cartoons" icon="FolderCartoons.png">
+		<channel-v1 id="disneychannel" label="Disney Channel" auth="true" url="http://www.digi-online.ro/tv/disney+channel/" icon="DisneyChannel.png" />
+		<channel-v1 id="disneyjunior" label="Disney Junior" auth="true" url="http://www.digi-online.ro/tv/disney+junior/" icon="DisneyJunior.png" />
+		<channel-v1 id="minimax" label="Minimax" auth="true" url="http://www.digi-online.ro/tv/minimax" icon="Minimax.png" />
+		<channel-v1 id="megamax" label="Megamax" auth="true" url="http://www.digi-online.ro/tv/megamax/" icon="Megamax.png" />
+		<channel-v1 id="nickelodeon" label="Nickelodeon" auth="true" url="http://www.digi-online.ro/tv/nickelodeon/" icon="Nickelodeon.png" />
+	</category>
+	<category id="lifestyle" label="Lifestyle" icon="FolderLifestyle.png">
+		<channel-v1 id="digifife" label="Digi Life" auth="true" url="http://www.digi-online.ro/tv/digi+life/" icon="DigiLife.png"/>
+		<channel-v1 id="travelchannel" label="Travel Channel" auth="true" url="http://www.digi-online.ro/tv/travel+channel/" icon="TravelChannel.png"/>
+		<channel-v3 id="eentertainment" label="E! Entertainment" auth="true" context="/digiedge2/tlce" chno="=73" icon=""/>
+		<channel-v3 id="tlcentertainment" label="TLC Entertainment" auth="true" context="/digiedge2/tlce" chno="=72" icon=""/>
+	</category>
+	<channel-v3-streaming>
+		<server>edge24.rdsnet.ro</server>
+		<server>edge84.rdsnet.ro</server>
+		<server>cdn01-edge30.rdsnet.ro</server>
+		<server>cdn02-edge30.rdsnet.ro</server>
+		<server>s2.220.t1.ro</server>
+	</channel-v3-streaming>
+</categories>
